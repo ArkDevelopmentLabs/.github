@@ -1,6 +1,6 @@
-# Ark Development Labs (ADL)
+# Ark Development Lab (ADL)
 
-Ark Development Labs (ADL) is an independent research and engineering organization focused on advanced artificial intelligence, generative model development, and large-scale dataset creation. We design and build open technologies that accelerate progress in multimodal AI, computer vision, diffusion models, and automated systems.
+Ark Development Lab (ADL) is an independent research and engineering organization focused on advanced artificial intelligence, generative model development, and large-scale dataset creation. We design and build open technologies that accelerate progress in multimodal AI, computer vision, diffusion models, and automated systems.
 
 Our mission is to enable accessible, high-quality resources for the global AI community through open research, transparent development, and high-impact engineering.
 
